@@ -1,16 +1,13 @@
-# autentikasi
+Jika tidak diberi (?) error 
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/72237675/116207455-183db000-a76a-11eb-8746-da154a74d342.png)
 
-## Getting Started
+Jika diberi (?)
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/72237675/116207588-3d322300-a76a-11eb-8407-caf24587f18a.png)
 
-A few resources to get you started if this is your first Flutter project:
+Praktikum 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/72237675/116207791-74a0cf80-a76a-11eb-8c75-7fc6fd3fb646.png)
+![image](https://user-images.githubusercontent.com/72237675/116207887-88e4cc80-a76a-11eb-85f5-6fe6ad7b0967.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
