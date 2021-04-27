@@ -9,4 +9,5 @@ Jika diberi (?)
 Praktikum 
 
 ![image](https://user-images.githubusercontent.com/72237675/116207791-74a0cf80-a76a-11eb-8c75-7fc6fd3fb646.png)
+![image](https://user-images.githubusercontent.com/72237675/116207887-88e4cc80-a76a-11eb-85f5-6fe6ad7b0967.png)
 
