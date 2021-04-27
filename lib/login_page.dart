@@ -1,6 +1,6 @@
+import 'package:autentikasi/first_screen.dart';
+import 'package:autentikasi/sign_in.dart';
 import 'package:flutter/material.dart';
-import 'package:modul_firebase/first_screen.dart';
-import 'package:modul_firebase/sign_in%20.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -53,7 +53,7 @@ class _LoginPageState extends State<LoginPage> {
           mainAxisSize: MainAxisSize.min,
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image(image: AssetImage("assets/google_logo.png"), height: 35.0),
+            // Image(image: AssetImage("assets/google_logo.png"), height: 35.0),
             Padding(
               padding: const EdgeInsets.only(left: 10),
               child: Text(

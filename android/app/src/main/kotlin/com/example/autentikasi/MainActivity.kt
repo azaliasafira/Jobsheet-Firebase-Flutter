@@ -1,4 +1,4 @@
-package com.example.modul_firebase
+package com.example.autentikasi
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "587472106",
-    "project_id": "modulfirebase-2cac5",
-    "storage_bucket": "modulfirebase-2cac5.appspot.com"
+    "project_number": "115653918766",
+    "project_id": "autentikasi-7a1f1",
+    "storage_bucket": "autentikasi-7a1f1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:587472106:android:0eb45aa6ca016b0e070b93",
+        "mobilesdk_app_id": "1:115653918766:android:faedc0a7599133ccd39fbf",
         "android_client_info": {
-          "package_name": "com.example.modul_firebase"
+          "package_name": "com.example.autentikasi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "587472106-7jm61fklha3ds5eg8i7r40uo0tad9dt9.apps.googleusercontent.com",
+          "client_id": "115653918766-t2emjs9oks7cr383j2dul2v7sg3u5ff1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.modul_firebase",
+            "package_name": "com.example.autentikasi",
             "certificate_hash": "2bf4e45d4d4c7a4c33867aaa9331281c9bae12a1"
           }
         },
         {
-          "client_id": "587472106-oet4gh4hveug1iqn2agpqp4pjjdcoj2g.apps.googleusercontent.com",
+          "client_id": "115653918766-jb7ubcpds1t141k5aipo2rct65e29rch.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDt4aXRXBY8Q4W0-04-cC6AajTG-qJoR8w"
+          "current_key": "AIzaSyDuh62pjaX8bcN4PgJ2ZmA1jC0DZthWIfM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "587472106-oet4gh4hveug1iqn2agpqp4pjjdcoj2g.apps.googleusercontent.com",
+              "client_id": "115653918766-jb7ubcpds1t141k5aipo2rct65e29rch.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

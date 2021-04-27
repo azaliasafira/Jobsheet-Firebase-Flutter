@@ -1,6 +1,6 @@
 {
-    "name": "modul_firebase",
-    "short_name": "modul_firebase",
+    "name": "autentikasi",
+    "short_name": "autentikasi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

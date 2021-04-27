@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.modul_firebase">
+    package="com.example.autentikasi">
    <application
-        android:label="modul_firebase"
+        android:label="autentikasi"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

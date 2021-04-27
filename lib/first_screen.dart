@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:modul_firebase/login_page%20.dart';
-import 'package:modul_firebase/sign_in%20.dart';
+import 'package:autentikasi/login_page.dart';
+import 'package:autentikasi/sign_in.dart';
 
 class FirstScreen extends StatelessWidget {
   @override
@@ -8,12 +8,12 @@ class FirstScreen extends StatelessWidget {
     return Scaffold(
       body: Container(
         decoration: BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topRight,
-            end: Alignment.bottomLeft,
-            colors: [Colors.blue[100], Colors.blue[400]],
-          ),
-        ),
+            // gradient: LinearGradient(
+            //   begin: Alignment.topRight,
+            //   end: Alignment.bottomLeft,
+            //   colors: [Colors.blue[100], Colors.blue[400]],
+            // ),
+            ),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -21,7 +21,7 @@ class FirstScreen extends StatelessWidget {
             children: <Widget>[
               CircleAvatar(
                 backgroundImage: NetworkImage(
-                  imageUrl,
+                  imageUrl!,
                 ),
                 radius: 60,
                 backgroundColor: Colors.transparent,
@@ -35,7 +35,7 @@ class FirstScreen extends StatelessWidget {
                     color: Colors.black54),
               ),
               Text(
-                name,
+                name!,
                 style: TextStyle(
                     fontSize: 25,
                     color: Colors.deepPurple,
@@ -50,7 +50,7 @@ class FirstScreen extends StatelessWidget {
                     color: Colors.black54),
               ),
               Text(
-                email,
+                email!,
                 style: TextStyle(
                     fontSize: 25,
                     color: Colors.deepPurple,
